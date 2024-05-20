@@ -1,0 +1,28 @@
+{
+    "CLI_version": "7.6.3",
+    "branch": "master",
+    "certora_ci_client": null,
+    "conf": {
+        "files": [
+            "Empty.sol"
+        ],
+        "process": "emv",
+        "solc": "solc",
+        "verify": "Empty:sisters.spec"
+    },
+    "conf_path": null,
+    "cwd_relative": "lesson1_prerequisites/formal_verification",
+    "dirty": true,
+    "main_spec": "sisters.spec",
+    "origin": "git@github.com:Certora/tutorials-code.git",
+    "raw_args": [
+        "/home/user/tutorials-code/lesson1_prerequisites/formal_verification/certora-work/bin/certoraRun",
+        "Empty.sol",
+        "--verify",
+        "Empty:sisters.spec",
+        "--solc",
+        "solc"
+    ],
+    "revision": "059897076cff816abc19c8c6df2d7678b0e99ac4",
+    "timestamp": "1716182221.597185"
+}
